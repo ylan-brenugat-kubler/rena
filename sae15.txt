@@ -1,0 +1,21 @@
+Partie 1 — Les choix qu'on a faits : 
+Tout d'abord, pour le choix de la pokestats on voulait en premier lieu partir sur : on met l'id d'un Pokémon et ça nous donne le type contre lequel il est le plus fort, lequel il a le plus de chance de perdre, etc...
+Mais au final comme beaucoup de personnes pensaient faire sur les ou le type d'un Pokémon et faire des stats avec on a préféré partir sur quelque chose d'utile donc on a opté à faire des stats sur l'évolution d'un Pokémon. 
+De base ça devait nous renvoyer les évolutions d'un Pokémon, par exemple Pikachu ça donne Pichu et Raichu et ça donne le pourcentage de stats gagnées mais cela était trop compliqué pour nous donc on a choisi de donner l'id de deux Pokémon,
+En tapant un id et un deuxième on a le pourcentage de stats en plus d'un Pokémon exemple, Pikachu et Raichu on a les % de stats qu'il va gagner grâce à son évolution. 
+
+
+Partie 2 — Les difficultés qu'on a rencontrées et les solutions qu'on a trouvées : 
+Les difficultés qu'on a rencontré c'est surtout notre manque d'expérience en python car on n'a jamais fait de python auparavant donc on a eu pas mal de difficultés à commencer on ne savait pas par où commencer,
+que faire etc.… Sur les calculs de pourcentages on a eu du mal à faire le calcul en Python , déjà qu'en TP on avait du mal alors là, ce n'était pas gagner mais au final ça a été on a réussi à donner quelque chose quand même.
+On s'est aidé de site internet où ils expliquaient certaines fonctions donc ça nous a permis à comprendre plus de choses. 
+
+
+Partie 3 — Ce qu'on pense avoir appris dans le projet : 
+On pense avoir appris beaucoup de choses sur ce projet car comme dit précédemment on n'avait pas d'expérience en Python et encore moins en utilisation d'API. Donc utilisation de dictionnaires, de listes, d'API, de certaines fonctions JSON etc.
+Beaucoup de choses de base en Python qui ont été approfondies grâce à cette SAE15 
+
+
+Partie 4 — L’état d’avancement du projet au moment du rendu s’il n’est pas fini : 
+Le projet est quasiment fini car de base on aurait préféré faire sur les évolutions et on a dû se rabattre sur juste comparer deux Pokémon, 
+mais par manque de temps on ne l'a pas fait. On a réussi à traduire la page en français et à avoir les trois fichiers Python à rendre.
